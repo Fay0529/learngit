@@ -1,0 +1,18 @@
+<!--index.wxml-->
+<view class="container">
+<view class ="section">
+ <input class ="sss"type ="text" placeholder="啥日子？" />
+ 
+ </view>
+ <view class="section">
+ <textarea class ="sss" placeholder="有啥事？" style="height:10" />
+</view>
+<view >1.吃饭</view>
+<view >2.睡觉</view>
+<view >3.学习</view>
+<view>4.健身</view>
+<view>
+<button >按了然并卵的按钮</button>
+</view>
+
+</view>
