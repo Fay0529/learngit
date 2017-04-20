@@ -20,6 +20,16 @@
   margin-top: 200px;
 }
 .sss{
-  border-width: 2px;
-  border-color:black;
+  background: #fff;
+  width:80%;
+  text-align: center
 }
+.ss1{
+  color:#fff
+}
+input{text-align: center;}
+textarea{ 
+text-align: center;
+}
+button{width:100px;
+height: 40px;}
