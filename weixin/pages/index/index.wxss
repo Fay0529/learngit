@@ -22,7 +22,8 @@
 .sss{
   background: #fff;
   width:80%;
-  text-align: center
+  text-align: center;
+  border:1px solid #00ff00 ;
 }
 .ss1{
   color:#fff
@@ -32,4 +33,5 @@ textarea{
 text-align: center;
 }
 button{width:100px;
-height: 40px;}
+height: 40px;
+color:00aa00}
